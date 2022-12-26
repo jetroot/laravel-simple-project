@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* nav[role="navigation"] > div:nth-child(2){
+    display: flex;
+    justify-content: center;
+} */
+
+/* nav[role="navigation"] > div:nth-child(2) > div:first-child {
+    display: none;
+} */
